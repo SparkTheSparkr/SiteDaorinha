@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+
+#menu{
+    background-color:indianred;
+    color: white;
+    padding: 10px;
+}
+
+#titulo{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    padding: 20px;
+}
+
+.texto{
+    width: 80%;
+    text-align: justify;
+    line-height:20px ;
+    margin-left: 5%;
+    padding-bottom: 15px;
+}
+
+#logotipo{
+text-align: right;
+padding-top: 20%;
+}
+
+#lista{
+    width: 33%;
+    line-height: 20px;
+    margin-left: 5%;
+    border: 1px solid chocolate;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 20px;
+    margin-left: 50px;
+    border-width: 20px;
+    border-style: dashed;
+}
+
+#rodape{
+    background-color: indianred;
+    width: 100%;
+    color: indianred;
+    padding-top: 10%;
+}
